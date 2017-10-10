@@ -14,3 +14,9 @@ Install [Jupyter notebook](http://jupyter.readthedocs.io/en/latest/install.html)
 ##Usage
 
 Run `jupyter notebook` in terminal when you are in the main directory, then a browser window will pop up. You can run the code in the browser easily.
+
+## Practical Appications
+
+* Classifying cancer images, cancerogenous moles/tumors using smart phones.
+* Classifying crop by size and color to optmize sales.
+* Drone that identifies dog poops and pick it up.

@@ -7,6 +7,7 @@ The code uses Keras & Tensorflow to train a convolutional neural network on a la
 ##Dependencies
 
 *keras (https://keras.io/#installation)
+
 *tensorflow (https://www.tensorflow.org/versions/r0.10/get_started/os_setup)
 
 Install Jupyter notebook from here.

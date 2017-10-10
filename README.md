@@ -1,6 +1,6 @@
 # image_classifier
 
-## Overview
+##Overview
 
 The code uses Keras & Tensorflow to train a convolutional neural network on a labeled dataset of cats and dogs. Then, it will be able to classify novel cats and dogs pretty well.
 

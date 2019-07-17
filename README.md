@@ -19,4 +19,3 @@ Run `jupyter notebook` in terminal when you are in the main directory, then a br
 
 * Classifying cancer images, cancerogenous moles/tumors using smart phones.
 * Classifying crop by size and color to optmize sales.
-* Drone that identifies dog poops and pick it up.
